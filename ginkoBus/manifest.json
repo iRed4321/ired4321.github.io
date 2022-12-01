@@ -3,17 +3,17 @@
     "name": "GinkoBus: Bus Tracker",
     "icons": [
         {
-            "src": "/icons/icon-32.png",
+            "src": "icons/icon-32.png",
             "type": "image/png",
             "sizes": "32x32"
         },
         {
-            "src": "/icons/icon-64.png",
+            "src": "icons/icon-64.png",
             "type": "image/png",
             "sizes": "64x64"
         },
         {
-            "src": "/icons/icon-96.png",
+            "src": "icons/icon-96.png",
             "type": "image/png",
             "sizes": "96x96"
         },
@@ -23,32 +23,22 @@
             "sizes": "128x128"
         },
         {
-            "src": "/icons/icon-168.png",
-            "type": "image/png",
-            "sizes": "168x168"
-        },
-        {
-            "src": "/icons/icon-180.png",
-            "type": "image/png",
-            "sizes": "180x180"
-        },
-        {
-            "src": "/icons/icon-192.png",
+            "src": "icons/icon-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/icons/icon-256.png",
+            "src": "icons/icon-256.png",
             "type": "image/png",
             "sizes": "256x256"
         },
         {
-            "src": "/icons/icon-512.png",
+            "src": "icons/icon-512.png",
             "type": "image/png",
             "sizes": "512x512"
         },
         {
-            "src": "/icons/maskable_icon.png",
+            "src": "icons/maskable_icon.png",
             "type": "image/png",
             "sizes": "274x274",
             "purpose": "maskable"
