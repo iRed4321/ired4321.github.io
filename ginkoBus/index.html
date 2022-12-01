@@ -25,6 +25,11 @@
     
     <!-- application scripts -->
     <script src="app.js" defer></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service_worker.js');
+        }
+    </script>
 
     <!-- manifest.json -->
     <link rel="manifest" href="manifest.json">
