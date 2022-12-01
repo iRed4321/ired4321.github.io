@@ -48,7 +48,6 @@
     "background_color": "#ffffff",
     "display": "fullscreen",
     "orientation": "portrait",
-    "scope": "/",
     "theme_color": "#ff9900",
     "description": "Les bus de ginko"
   }
